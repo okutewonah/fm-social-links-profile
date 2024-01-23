@@ -11,10 +11,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -24,12 +21,12 @@ A card to display social links for a profile
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/public/assets/images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/okutewonah/fm-social-links-profile)
-- Live Site URL: [Add live site URL here](https://fm-social-links-profile.vercel.app/)
+- Solution URL: [Solution page](https://github.com/okutewonah/fm-social-links-profile)
+- Live Site URL: [Live view](https://fm-social-links-profile.vercel.app/)
 
 ## My process
 
@@ -45,6 +42,5 @@ Instead of a copy-paste of links, a mapping of an array of objects was utilised.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [okutewonah](https://github.com/okutewonah)
