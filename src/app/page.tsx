@@ -30,7 +30,7 @@ export default function Home() {
     },
   ];
   return (
-    <main className="flex bg-off-black min-h-screen flex-col items-center justify-between p-24">
+    <main className="flex bg-off-black min-h-screen items-center justify-center">
       <div className="flex flex-col items-center py-[2rem] w-[350px] h-auto bg-dark-grey rounded-md font-bold">
         <Image
           className="rounded-full mb-5"
