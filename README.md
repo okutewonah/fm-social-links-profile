@@ -42,5 +42,5 @@ Instead of a copy-paste of links, a mapping of an array of objects was utilised.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@okutewonah](https://www.frontendmentor.io/profile/okutewonah)
 - Github - [okutewonah](https://github.com/okutewonah)
